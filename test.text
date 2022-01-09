@@ -1,1 +1,8 @@
 curl https://upload.wikimedia.org/wikipedia/commons/8/8e/Untitled_%28Still_life%29_%281913%29_-_Amadeo_Souza-Cardoso_%281887-1918%29_%2817385824283%29.jpg > amadeo_style_life.jpg
+
+
+
+               users -> buy coin     -> cc           -> irregular big purchases of cc tkn, based on % of income (reduce supply, increase price of asset for holders)
+	       users <- get services <- cc community
+	       cc community <- pay $ <- cc            | (allow user to opt-in to switch correspoding amount to cctkn)
+	       
